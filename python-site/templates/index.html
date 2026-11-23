@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% set title = "Football analysis and predictions" %}
+{% block content %}
+<section class="season-banner">
+  <div><h1>🏆 2025/26 Season</h1><p>Predictions based on 2020-2025 historical data</p></div>
+  <div class="season-stats"><span><b>{{ leagues | length - 1 }}</b> Major Leagues</span><span><b>{{ teams | length }}</b> Teams</span><span><b>5 Years</b> Historical Data</span></div>
+</section>
+<nav class="tabs" aria-label="Analysis mode">
+  <button type="button" class="tab active" data-tab="fixtures">📅 Fixtures 2025/26</button>
+  <button type="button" class="tab" data-tab="custom">🔄 Custom Analysis</button>
+  <button type="button" class="tab" data-tab="standings">🏆 League Tables</button>
+</nav>
+<section id="app" data-site-data="/assets/data/site-data.json" aria-live="polite">
+  <div class="loading"><span aria-hidden="true">⚽</span><p>Loading football data…</p></div>
+</section>
+<noscript><p class="notice">Enable JavaScript to use match analysis and standings.</p></noscript>
+<section class="info-grid" aria-label="Important information">
+  <article class="info-card"><h2>Responsible Gambling</h2><p>These predictions are statistical estimates, not guarantees. Gambling involves risk and you may lose money. Only gamble responsibly and only what you can afford to lose. 18+ only.</p></article>
+  <article class="info-card"><h2>Data Transparency</h2><p>Historical data, fixtures, and projections are shown as supplied in the site dataset. Projections may not reflect current form.</p></article>
+  <article class="info-card"><h2>Prediction Limitations</h2><p>Injuries, suspensions, team news, weather, and other factors can affect results. Football is unpredictable.</p></article>
+</section>
+{% endblock %}

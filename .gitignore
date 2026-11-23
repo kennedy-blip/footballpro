@@ -6,7 +6,15 @@
 # so the ignore rule prevents additional untracked install artifacts.
 /node_modules/
 
+# Python static-site build output and local environment
+/python-site/.venv/
+/python-site/_site/
+
 # Local environment files contain deployment credentials
 .env
 .env.*
 !.env.example
+
+# Python bytecode
+__pycache__/
+*.py[cod]
