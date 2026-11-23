@@ -1,0 +1,12 @@
+# Generated ReScript and Vite output
+/lib/
+/dist/
+
+# Dependencies are installed by npm; this repository historically tracked them,
+# so the ignore rule prevents additional untracked install artifacts.
+/node_modules/
+
+# Local environment files contain deployment credentials
+.env
+.env.*
+!.env.example

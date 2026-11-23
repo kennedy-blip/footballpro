@@ -1,0 +1,22 @@
+{
+  "name": "react-vite-tailwind",
+  "sources": [
+    {
+      "dir": "src/rescript",
+      "subdirs": true
+    }
+  ],
+  "package-specs": [
+    {
+      "module": "esmodule",
+      "in-source": false
+    }
+  ],
+  "suffix": ".mjs",
+  "dependencies": [
+    "@rescript/react"
+  ],
+  "jsx": {
+    "version": 4
+  }
+}
