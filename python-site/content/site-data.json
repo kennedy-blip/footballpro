@@ -1,0 +1,6242 @@
+{
+  "leagues": [
+    {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "season": 2025
+    },
+    {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "🇪🇸",
+      "flag": "🇪🇸",
+      "season": 2025
+    },
+    {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy",
+      "logo": "🇮🇹",
+      "flag": "🇮🇹",
+      "season": 2025
+    },
+    {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "🇩🇪",
+      "flag": "🇩🇪",
+      "season": 2025
+    },
+    {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "🇫🇷",
+      "flag": "🇫🇷",
+      "season": 2025
+    },
+    {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "season": 2025
+    }
+  ],
+  "teams": [
+    {
+      "id": 42,
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "logo": "🔴",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Emirates Stadium",
+      "founded": 1886,
+      "trophies": {
+        "league": 13,
+        "cups": 14,
+        "europe": 0
+      }
+    },
+    {
+      "id": 40,
+      "name": "Liverpool",
+      "shortName": "LIV",
+      "logo": "🔴",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Anfield",
+      "founded": 1892,
+      "trophies": {
+        "league": 19,
+        "cups": 8,
+        "europe": 6
+      }
+    },
+    {
+      "id": 50,
+      "name": "Manchester City",
+      "shortName": "MCI",
+      "logo": "🩵",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Etihad Stadium",
+      "founded": 1880,
+      "trophies": {
+        "league": 10,
+        "cups": 7,
+        "europe": 1
+      }
+    },
+    {
+      "id": 49,
+      "name": "Chelsea",
+      "shortName": "CHE",
+      "logo": "🔵",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Stamford Bridge",
+      "founded": 1905,
+      "trophies": {
+        "league": 6,
+        "cups": 8,
+        "europe": 2
+      }
+    },
+    {
+      "id": 33,
+      "name": "Manchester United",
+      "shortName": "MUN",
+      "logo": "🔴",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Old Trafford",
+      "founded": 1878,
+      "trophies": {
+        "league": 20,
+        "cups": 12,
+        "europe": 3
+      }
+    },
+    {
+      "id": 47,
+      "name": "Tottenham Hotspur",
+      "shortName": "TOT",
+      "logo": "⚪",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Tottenham Hotspur Stadium",
+      "founded": 1882,
+      "trophies": {
+        "league": 2,
+        "cups": 8,
+        "europe": 0
+      }
+    },
+    {
+      "id": 34,
+      "name": "Newcastle United",
+      "shortName": "NEW",
+      "logo": "⚫",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "St. James' Park",
+      "founded": 1892,
+      "trophies": {
+        "league": 4,
+        "cups": 6,
+        "europe": 0
+      }
+    },
+    {
+      "id": 65,
+      "name": "Aston Villa",
+      "shortName": "AVL",
+      "logo": "🟤",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Villa Park",
+      "founded": 1874,
+      "trophies": {
+        "league": 7,
+        "cups": 7,
+        "europe": 1
+      }
+    },
+    {
+      "id": 51,
+      "name": "Brighton & Hove Albion",
+      "shortName": "BHA",
+      "logo": "🔵",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Amex Stadium",
+      "founded": 1901,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 48,
+      "name": "West Ham United",
+      "shortName": "WHU",
+      "logo": "🍷",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "London Stadium",
+      "founded": 1895,
+      "trophies": {
+        "league": 0,
+        "cups": 3,
+        "europe": 1
+      }
+    },
+    {
+      "id": 55,
+      "name": "Brentford",
+      "shortName": "BRE",
+      "logo": "🐝",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Gtech Community Stadium",
+      "founded": 1889,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 36,
+      "name": "Fulham",
+      "shortName": "FUL",
+      "logo": "⚪",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Craven Cottage",
+      "founded": 1879,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 35,
+      "name": "Bournemouth",
+      "shortName": "BOU",
+      "logo": "🍒",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Vitality Stadium",
+      "founded": 1899,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 52,
+      "name": "Crystal Palace",
+      "shortName": "CRY",
+      "logo": "🔴🔵",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Selhurst Park",
+      "founded": 1905,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 63,
+      "name": "Nottingham Forest",
+      "shortName": "NFO",
+      "logo": "🔴",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "City Ground",
+      "founded": 1865,
+      "trophies": {
+        "league": 1,
+        "cups": 2,
+        "europe": 2
+      }
+    },
+    {
+      "id": 39,
+      "name": "Wolverhampton Wanderers",
+      "shortName": "WOL",
+      "logo": "🟠",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Molineux Stadium",
+      "founded": 1877,
+      "trophies": {
+        "league": 3,
+        "cups": 4,
+        "europe": 0
+      }
+    },
+    {
+      "id": 45,
+      "name": "Everton",
+      "shortName": "EVE",
+      "logo": "🔵",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Goodison Park",
+      "founded": 1878,
+      "trophies": {
+        "league": 9,
+        "cups": 5,
+        "europe": 0
+      }
+    },
+    {
+      "id": 66,
+      "name": "Leeds United",
+      "shortName": "LEE",
+      "logo": "⚪",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Elland Road",
+      "founded": 1919,
+      "trophies": {
+        "league": 3,
+        "cups": 1,
+        "europe": 0
+      }
+    },
+    {
+      "id": 44,
+      "name": "Burnley",
+      "shortName": "BUR",
+      "logo": "🍷",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Turf Moor",
+      "founded": 1882,
+      "trophies": {
+        "league": 2,
+        "cups": 1,
+        "europe": 0
+      }
+    },
+    {
+      "id": 62,
+      "name": "Sheffield United",
+      "shortName": "SHU",
+      "logo": "🔴",
+      "country": "England",
+      "league": "Premier League",
+      "leagueId": 39,
+      "venue": "Bramall Lane",
+      "founded": 1889,
+      "trophies": {
+        "league": 1,
+        "cups": 4,
+        "europe": 0
+      }
+    },
+    {
+      "id": 541,
+      "name": "Real Madrid",
+      "shortName": "RMA",
+      "logo": "⚪",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Santiago Bernabéu",
+      "founded": 1902,
+      "trophies": {
+        "league": 36,
+        "cups": 20,
+        "europe": 15
+      }
+    },
+    {
+      "id": 529,
+      "name": "Barcelona",
+      "shortName": "BAR",
+      "logo": "🔵🔴",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Spotify Camp Nou",
+      "founded": 1899,
+      "trophies": {
+        "league": 27,
+        "cups": 31,
+        "europe": 5
+      }
+    },
+    {
+      "id": 530,
+      "name": "Atletico Madrid",
+      "shortName": "ATM",
+      "logo": "🔴⚪",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Civitas Metropolitano",
+      "founded": 1903,
+      "trophies": {
+        "league": 11,
+        "cups": 10,
+        "europe": 3
+      }
+    },
+    {
+      "id": 531,
+      "name": "Athletic Bilbao",
+      "shortName": "ATH",
+      "logo": "🔴⚪",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "San Mamés",
+      "founded": 1898,
+      "trophies": {
+        "league": 8,
+        "cups": 24,
+        "europe": 0
+      }
+    },
+    {
+      "id": 548,
+      "name": "Real Sociedad",
+      "shortName": "RSO",
+      "logo": "🔵⚪",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Reale Arena",
+      "founded": 1909,
+      "trophies": {
+        "league": 2,
+        "cups": 3,
+        "europe": 0
+      }
+    },
+    {
+      "id": 543,
+      "name": "Real Betis",
+      "shortName": "BET",
+      "logo": "💚",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Benito Villamarín",
+      "founded": 1907,
+      "trophies": {
+        "league": 1,
+        "cups": 3,
+        "europe": 0
+      }
+    },
+    {
+      "id": 533,
+      "name": "Villarreal",
+      "shortName": "VIL",
+      "logo": "🟡",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Estadio de la Cerámica",
+      "founded": 1923,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 1
+      }
+    },
+    {
+      "id": 536,
+      "name": "Sevilla",
+      "shortName": "SEV",
+      "logo": "⚪🔴",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Ramón Sánchez-Pizjuán",
+      "founded": 1890,
+      "trophies": {
+        "league": 1,
+        "cups": 5,
+        "europe": 7
+      }
+    },
+    {
+      "id": 547,
+      "name": "Girona",
+      "shortName": "GIR",
+      "logo": "🔴⚪",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Estadi Montilivi",
+      "founded": 1930,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 532,
+      "name": "Valencia",
+      "shortName": "VAL",
+      "logo": "🦇",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Mestalla",
+      "founded": 1919,
+      "trophies": {
+        "league": 6,
+        "cups": 8,
+        "europe": 0
+      }
+    },
+    {
+      "id": 727,
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "logo": "🔴",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "El Sadar",
+      "founded": 1920,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 538,
+      "name": "Celta Vigo",
+      "shortName": "CEL",
+      "logo": "🔵",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Abanca-Balaídos",
+      "founded": 1923,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 798,
+      "name": "Mallorca",
+      "shortName": "MLL",
+      "logo": "🔴",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Visit Mallorca Estadi",
+      "founded": 1916,
+      "trophies": {
+        "league": 0,
+        "cups": 1,
+        "europe": 0
+      }
+    },
+    {
+      "id": 728,
+      "name": "Rayo Vallecano",
+      "shortName": "RAY",
+      "logo": "⚡",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Vallecas",
+      "founded": 1924,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 546,
+      "name": "Getafe",
+      "shortName": "GET",
+      "logo": "🔵",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Coliseum Alfonso Pérez",
+      "founded": 1983,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 534,
+      "name": "Las Palmas",
+      "shortName": "LPA",
+      "logo": "🟡",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Estadio Gran Canaria",
+      "founded": 1949,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 542,
+      "name": "Alaves",
+      "shortName": "ALA",
+      "logo": "🔵⚪",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Mendizorrotza",
+      "founded": 1921,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 540,
+      "name": "Espanyol",
+      "shortName": "ESP",
+      "logo": "🔵⚪",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "RCDE Stadium",
+      "founded": 1900,
+      "trophies": {
+        "league": 0,
+        "cups": 4,
+        "europe": 0
+      }
+    },
+    {
+      "id": 720,
+      "name": "Real Valladolid",
+      "shortName": "VLL",
+      "logo": "💜",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "José Zorrilla",
+      "founded": 1928,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 745,
+      "name": "Leganes",
+      "shortName": "LEG",
+      "logo": "🔵",
+      "country": "Spain",
+      "league": "La Liga",
+      "leagueId": 140,
+      "venue": "Butarque",
+      "founded": 1928,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 505,
+      "name": "Inter Milan",
+      "shortName": "INT",
+      "logo": "🔵⚫",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "San Siro",
+      "founded": 1908,
+      "trophies": {
+        "league": 20,
+        "cups": 9,
+        "europe": 3
+      }
+    },
+    {
+      "id": 489,
+      "name": "AC Milan",
+      "shortName": "MIL",
+      "logo": "🔴⚫",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "San Siro",
+      "founded": 1899,
+      "trophies": {
+        "league": 19,
+        "cups": 5,
+        "europe": 7
+      }
+    },
+    {
+      "id": 496,
+      "name": "Juventus",
+      "shortName": "JUV",
+      "logo": "⚫⚪",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Allianz Stadium",
+      "founded": 1897,
+      "trophies": {
+        "league": 36,
+        "cups": 14,
+        "europe": 2
+      }
+    },
+    {
+      "id": 492,
+      "name": "Napoli",
+      "shortName": "NAP",
+      "logo": "🔵",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Diego Armando Maradona",
+      "founded": 1926,
+      "trophies": {
+        "league": 3,
+        "cups": 6,
+        "europe": 0
+      }
+    },
+    {
+      "id": 499,
+      "name": "Atalanta",
+      "shortName": "ATA",
+      "logo": "🔵⚫",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Gewiss Stadium",
+      "founded": 1907,
+      "trophies": {
+        "league": 0,
+        "cups": 1,
+        "europe": 1
+      }
+    },
+    {
+      "id": 497,
+      "name": "AS Roma",
+      "shortName": "ROM",
+      "logo": "🟡🔴",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Stadio Olimpico",
+      "founded": 1927,
+      "trophies": {
+        "league": 3,
+        "cups": 9,
+        "europe": 0
+      }
+    },
+    {
+      "id": 498,
+      "name": "Lazio",
+      "shortName": "LAZ",
+      "logo": "🔵⚪",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Stadio Olimpico",
+      "founded": 1900,
+      "trophies": {
+        "league": 2,
+        "cups": 7,
+        "europe": 0
+      }
+    },
+    {
+      "id": 502,
+      "name": "Fiorentina",
+      "shortName": "FIO",
+      "logo": "💜",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Artemio Franchi",
+      "founded": 1926,
+      "trophies": {
+        "league": 2,
+        "cups": 6,
+        "europe": 0
+      }
+    },
+    {
+      "id": 500,
+      "name": "Bologna",
+      "shortName": "BOL",
+      "logo": "🔵🔴",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Renato Dall'Ara",
+      "founded": 1909,
+      "trophies": {
+        "league": 7,
+        "cups": 2,
+        "europe": 0
+      }
+    },
+    {
+      "id": 503,
+      "name": "Torino",
+      "shortName": "TOR",
+      "logo": "🍷",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Stadio Olimpico Grande Torino",
+      "founded": 1906,
+      "trophies": {
+        "league": 7,
+        "cups": 5,
+        "europe": 0
+      }
+    },
+    {
+      "id": 520,
+      "name": "Udinese",
+      "shortName": "UDI",
+      "logo": "⚫⚪",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Dacia Arena",
+      "founded": 1896,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 511,
+      "name": "Empoli",
+      "shortName": "EMP",
+      "logo": "🔵",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Carlo Castellani",
+      "founded": 1920,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 514,
+      "name": "Genoa",
+      "shortName": "GEN",
+      "logo": "🔴🔵",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Luigi Ferraris",
+      "founded": 1893,
+      "trophies": {
+        "league": 9,
+        "cups": 1,
+        "europe": 0
+      }
+    },
+    {
+      "id": 515,
+      "name": "Cagliari",
+      "shortName": "CAG",
+      "logo": "🔴🔵",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Unipol Domus",
+      "founded": 1920,
+      "trophies": {
+        "league": 1,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 523,
+      "name": "Parma",
+      "shortName": "PAR",
+      "logo": "💛🔵",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Ennio Tardini",
+      "founded": 1913,
+      "trophies": {
+        "league": 0,
+        "cups": 3,
+        "europe": 2
+      }
+    },
+    {
+      "id": 504,
+      "name": "Hellas Verona",
+      "shortName": "VER",
+      "logo": "💛🔵",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Marcantonio Bentegodi",
+      "founded": 1903,
+      "trophies": {
+        "league": 1,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 867,
+      "name": "Como",
+      "shortName": "COM",
+      "logo": "🔵",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Stadio Giuseppe Sinigaglia",
+      "founded": 1907,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 522,
+      "name": "Lecce",
+      "shortName": "LEC",
+      "logo": "🟡🔴",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Via del Mare",
+      "founded": 1908,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 517,
+      "name": "Venezia",
+      "shortName": "VEN",
+      "logo": "🟢🟠⚫",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "Pier Luigi Penzo",
+      "founded": 1907,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 1579,
+      "name": "Monza",
+      "shortName": "MON",
+      "logo": "🔴⚪",
+      "country": "Italy",
+      "league": "Serie A",
+      "leagueId": 135,
+      "venue": "U-Power Stadium",
+      "founded": 1912,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 157,
+      "name": "Bayern Munich",
+      "shortName": "BAY",
+      "logo": "🔴",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Allianz Arena",
+      "founded": 1900,
+      "trophies": {
+        "league": 33,
+        "cups": 20,
+        "europe": 6
+      }
+    },
+    {
+      "id": 168,
+      "name": "Bayer Leverkusen",
+      "shortName": "LEV",
+      "logo": "🔴⚫",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "BayArena",
+      "founded": 1904,
+      "trophies": {
+        "league": 1,
+        "cups": 2,
+        "europe": 0
+      }
+    },
+    {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "shortName": "BVB",
+      "logo": "🟡⚫",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Signal Iduna Park",
+      "founded": 1909,
+      "trophies": {
+        "league": 8,
+        "cups": 5,
+        "europe": 1
+      }
+    },
+    {
+      "id": 173,
+      "name": "RB Leipzig",
+      "shortName": "RBL",
+      "logo": "🔴⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Red Bull Arena",
+      "founded": 2009,
+      "trophies": {
+        "league": 0,
+        "cups": 2,
+        "europe": 0
+      }
+    },
+    {
+      "id": 172,
+      "name": "VfB Stuttgart",
+      "shortName": "VFB",
+      "logo": "🔴⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "MHP Arena",
+      "founded": 1893,
+      "trophies": {
+        "league": 5,
+        "cups": 3,
+        "europe": 0
+      }
+    },
+    {
+      "id": 169,
+      "name": "Eintracht Frankfurt",
+      "shortName": "SGE",
+      "logo": "⚫🔴",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Deutsche Bank Park",
+      "founded": 1899,
+      "trophies": {
+        "league": 1,
+        "cups": 5,
+        "europe": 1
+      }
+    },
+    {
+      "id": 174,
+      "name": "SC Freiburg",
+      "shortName": "SCF",
+      "logo": "⚫🔴",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Europa-Park Stadion",
+      "founded": 1904,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 176,
+      "name": "VfL Wolfsburg",
+      "shortName": "WOB",
+      "logo": "🟢⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Volkswagen Arena",
+      "founded": 1945,
+      "trophies": {
+        "league": 1,
+        "cups": 1,
+        "europe": 0
+      }
+    },
+    {
+      "id": 185,
+      "name": "Mainz 05",
+      "shortName": "M05",
+      "logo": "🔴⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "MEWA Arena",
+      "founded": 1905,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 170,
+      "name": "FC Augsburg",
+      "shortName": "FCA",
+      "logo": "🔴🟢",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "WWK Arena",
+      "founded": 1907,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 180,
+      "name": "Werder Bremen",
+      "shortName": "SVW",
+      "logo": "🟢⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Wohninvest Weserstadion",
+      "founded": 1899,
+      "trophies": {
+        "league": 4,
+        "cups": 6,
+        "europe": 1
+      }
+    },
+    {
+      "id": 184,
+      "name": "Borussia M'gladbach",
+      "shortName": "BMG",
+      "logo": "⚫⚪🟢",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Borussia-Park",
+      "founded": 1900,
+      "trophies": {
+        "league": 5,
+        "cups": 3,
+        "europe": 2
+      }
+    },
+    {
+      "id": 175,
+      "name": "Union Berlin",
+      "shortName": "FCU",
+      "logo": "🔴⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Stadion An der Alten Försterei",
+      "founded": 1966,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 182,
+      "name": "TSG Hoffenheim",
+      "shortName": "TSG",
+      "logo": "🔵⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "PreZero Arena",
+      "founded": 1899,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 186,
+      "name": "FC Heidenheim",
+      "shortName": "HDH",
+      "logo": "🔴🔵",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Voith-Arena",
+      "founded": 1946,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 178,
+      "name": "VfL Bochum",
+      "shortName": "BOC",
+      "logo": "🔵⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Vonovia Ruhrstadion",
+      "founded": 1848,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 192,
+      "name": "Holstein Kiel",
+      "shortName": "KIE",
+      "logo": "🔵⚪",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Holstein-Stadion",
+      "founded": 1900,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 181,
+      "name": "FC St. Pauli",
+      "shortName": "STP",
+      "logo": "🏴‍☠️",
+      "country": "Germany",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "venue": "Millerntor-Stadion",
+      "founded": 1910,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 85,
+      "name": "Paris Saint-Germain",
+      "shortName": "PSG",
+      "logo": "🔵🔴",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Parc des Princes",
+      "founded": 1970,
+      "trophies": {
+        "league": 12,
+        "cups": 14,
+        "europe": 0
+      }
+    },
+    {
+      "id": 91,
+      "name": "Monaco",
+      "shortName": "ASM",
+      "logo": "🔴⚪",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade Louis II",
+      "founded": 1924,
+      "trophies": {
+        "league": 8,
+        "cups": 5,
+        "europe": 0
+      }
+    },
+    {
+      "id": 81,
+      "name": "Marseille",
+      "shortName": "OM",
+      "logo": "🔵⚪",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Orange Vélodrome",
+      "founded": 1899,
+      "trophies": {
+        "league": 9,
+        "cups": 10,
+        "europe": 1
+      }
+    },
+    {
+      "id": 79,
+      "name": "Lille",
+      "shortName": "LIL",
+      "logo": "🔴⚪",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade Pierre-Mauroy",
+      "founded": 1944,
+      "trophies": {
+        "league": 4,
+        "cups": 6,
+        "europe": 0
+      }
+    },
+    {
+      "id": 80,
+      "name": "Lyon",
+      "shortName": "LYO",
+      "logo": "🔴🔵",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Groupama Stadium",
+      "founded": 1950,
+      "trophies": {
+        "league": 7,
+        "cups": 5,
+        "europe": 0
+      }
+    },
+    {
+      "id": 84,
+      "name": "Nice",
+      "shortName": "NIC",
+      "logo": "🔴⚫",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Allianz Riviera",
+      "founded": 1904,
+      "trophies": {
+        "league": 4,
+        "cups": 3,
+        "europe": 0
+      }
+    },
+    {
+      "id": 116,
+      "name": "Lens",
+      "shortName": "LEN",
+      "logo": "🔴🟡",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade Bollaert-Delelis",
+      "founded": 1906,
+      "trophies": {
+        "league": 1,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 94,
+      "name": "Rennes",
+      "shortName": "REN",
+      "logo": "🔴⚫",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Roazhon Park",
+      "founded": 1901,
+      "trophies": {
+        "league": 0,
+        "cups": 3,
+        "europe": 0
+      }
+    },
+    {
+      "id": 106,
+      "name": "Stade Brestois",
+      "shortName": "BRE",
+      "logo": "🔴⚪",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade Francis-Le Blé",
+      "founded": 1950,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 95,
+      "name": "Strasbourg",
+      "shortName": "STR",
+      "logo": "🔵⚪",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade de la Meinau",
+      "founded": 1906,
+      "trophies": {
+        "league": 1,
+        "cups": 3,
+        "europe": 0
+      }
+    },
+    {
+      "id": 96,
+      "name": "Toulouse",
+      "shortName": "TLS",
+      "logo": "💜",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stadium de Toulouse",
+      "founded": 1970,
+      "trophies": {
+        "league": 0,
+        "cups": 1,
+        "europe": 0
+      }
+    },
+    {
+      "id": 93,
+      "name": "Reims",
+      "shortName": "REI",
+      "logo": "🔴⚪",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade Auguste-Delaune",
+      "founded": 1931,
+      "trophies": {
+        "league": 6,
+        "cups": 2,
+        "europe": 0
+      }
+    },
+    {
+      "id": 83,
+      "name": "Nantes",
+      "shortName": "NAN",
+      "logo": "🟡🟢",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade de la Beaujoire",
+      "founded": 1943,
+      "trophies": {
+        "league": 8,
+        "cups": 3,
+        "europe": 0
+      }
+    },
+    {
+      "id": 99,
+      "name": "Auxerre",
+      "shortName": "AUX",
+      "logo": "🔵⚪",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade de l'Abbé-Deschamps",
+      "founded": 1905,
+      "trophies": {
+        "league": 1,
+        "cups": 4,
+        "europe": 0
+      }
+    },
+    {
+      "id": 77,
+      "name": "Angers",
+      "shortName": "ANG",
+      "logo": "⚫⚪",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade Raymond Kopa",
+      "founded": 1919,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 108,
+      "name": "Le Havre",
+      "shortName": "HAV",
+      "logo": "🔵",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade Océane",
+      "founded": 1894,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    },
+    {
+      "id": 112,
+      "name": "Saint-Etienne",
+      "shortName": "STE",
+      "logo": "🟢",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade Geoffroy-Guichard",
+      "founded": 1919,
+      "trophies": {
+        "league": 10,
+        "cups": 6,
+        "europe": 0
+      }
+    },
+    {
+      "id": 82,
+      "name": "Montpellier",
+      "shortName": "MTP",
+      "logo": "🔵🟠",
+      "country": "France",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "venue": "Stade de la Mosson",
+      "founded": 1974,
+      "trophies": {
+        "league": 1,
+        "cups": 2,
+        "europe": 0
+      }
+    },
+    {
+      "id": 41,
+      "name": "Southampton",
+      "shortName": "SOU",
+      "logo": "🔴⚪",
+      "country": "England",
+      "league": "Championship",
+      "leagueId": 40,
+      "venue": "St Mary's Stadium",
+      "founded": 1885,
+      "trophies": {
+        "league": 0,
+        "cups": 1,
+        "europe": 0
+      }
+    },
+    {
+      "id": 46,
+      "name": "Leicester City",
+      "shortName": "LEI",
+      "logo": "🦊",
+      "country": "England",
+      "league": "Championship",
+      "leagueId": 40,
+      "venue": "King Power Stadium",
+      "founded": 1884,
+      "trophies": {
+        "league": 1,
+        "cups": 1,
+        "europe": 0
+      }
+    },
+    {
+      "id": 66,
+      "name": "Ipswich Town",
+      "shortName": "IPS",
+      "logo": "🔵",
+      "country": "England",
+      "league": "Championship",
+      "leagueId": 40,
+      "venue": "Portman Road",
+      "founded": 1878,
+      "trophies": {
+        "league": 1,
+        "cups": 1,
+        "europe": 1
+      }
+    },
+    {
+      "id": 71,
+      "name": "Sunderland",
+      "shortName": "SUN",
+      "logo": "🔴⚪",
+      "country": "England",
+      "league": "Championship",
+      "leagueId": 40,
+      "venue": "Stadium of Light",
+      "founded": 1879,
+      "trophies": {
+        "league": 6,
+        "cups": 2,
+        "europe": 0
+      }
+    },
+    {
+      "id": 68,
+      "name": "Middlesbrough",
+      "shortName": "MID",
+      "logo": "🔴",
+      "country": "England",
+      "league": "Championship",
+      "leagueId": 40,
+      "venue": "Riverside Stadium",
+      "founded": 1876,
+      "trophies": {
+        "league": 0,
+        "cups": 0,
+        "europe": 0
+      }
+    }
+  ],
+  "stats": {
+    "33": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.17,
+      "avgGoalsConceded": 1.33,
+      "points": 8,
+      "position": 13
+    },
+    "34": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 5,
+      "cleanSheets": 3,
+      "form": [
+        "D",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.67,
+      "avgGoalsConceded": 0.83,
+      "points": 11,
+      "position": 6
+    },
+    "35": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 6,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.5,
+      "avgGoalsConceded": 1,
+      "points": 11,
+      "position": 7
+    },
+    "36": {
+      "played": 6,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.33,
+      "avgGoalsConceded": 1.17,
+      "points": 10,
+      "position": 9
+    },
+    "39": {
+      "played": 6,
+      "wins": 1,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 10,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "D",
+        "W",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1,
+      "avgGoalsConceded": 1.67,
+      "points": 5,
+      "position": 17
+    },
+    "40": {
+      "played": 6,
+      "wins": 5,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 15,
+      "goalsAgainst": 4,
+      "cleanSheets": 4,
+      "form": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.5,
+      "avgGoalsConceded": 0.67,
+      "points": 16,
+      "position": 1
+    },
+    "41": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 13,
+      "goalsAgainst": 4,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "D",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.2,
+      "avgGoalsConceded": 0.8,
+      "points": 11,
+      "position": 1
+    },
+    "42": {
+      "played": 6,
+      "wins": 4,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 12,
+      "goalsAgainst": 4,
+      "cleanSheets": 3,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "D"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2,
+      "avgGoalsConceded": 0.67,
+      "points": 14,
+      "position": 2
+    },
+    "44": {
+      "played": 6,
+      "wins": 0,
+      "draws": 2,
+      "losses": 4,
+      "goalsFor": 4,
+      "goalsAgainst": 12,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "D"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.67,
+      "avgGoalsConceded": 2,
+      "points": 2,
+      "position": 20
+    },
+    "45": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "L",
+        "D",
+        "W",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.83,
+      "avgGoalsConceded": 1.17,
+      "points": 6,
+      "position": 16
+    },
+    "46": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 12,
+      "goalsAgainst": 5,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.14,
+      "avgGoalsConceded": 0.83,
+      "points": 11,
+      "position": 2
+    },
+    "47": {
+      "played": 6,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 9,
+      "goalsAgainst": 11,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.5,
+      "avgGoalsConceded": 1.83,
+      "points": 7,
+      "position": 15
+    },
+    "48": {
+      "played": 6,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 7,
+      "goalsAgainst": 10,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.17,
+      "avgGoalsConceded": 1.67,
+      "points": 7,
+      "position": 14
+    },
+    "49": {
+      "played": 6,
+      "wins": 4,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 13,
+      "goalsAgainst": 8,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.17,
+      "avgGoalsConceded": 1.33,
+      "points": 12,
+      "position": 5
+    },
+    "50": {
+      "played": 6,
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 14,
+      "goalsAgainst": 6,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.33,
+      "avgGoalsConceded": 1,
+      "points": 13,
+      "position": 3
+    },
+    "51": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.5,
+      "avgGoalsConceded": 1.17,
+      "points": 9,
+      "position": 10
+    },
+    "52": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "L",
+        "D",
+        "W",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.17,
+      "avgGoalsConceded": 1.17,
+      "points": 8,
+      "position": 12
+    },
+    "55": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 9,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.67,
+      "avgGoalsConceded": 1.5,
+      "points": 8,
+      "position": 11
+    },
+    "62": {
+      "played": 6,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4,
+      "goalsFor": 4,
+      "goalsAgainst": 10,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.67,
+      "avgGoalsConceded": 1.67,
+      "points": 4,
+      "position": 19
+    },
+    "63": {
+      "played": 6,
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 5,
+      "cleanSheets": 3,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.67,
+      "avgGoalsConceded": 0.83,
+      "points": 13,
+      "position": 4
+    },
+    "65": {
+      "played": 6,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 11,
+      "goalsAgainst": 8,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.83,
+      "avgGoalsConceded": 1.33,
+      "points": 10,
+      "position": 8
+    },
+    "66": {
+      "played": 6,
+      "wins": 1,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 9,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1,
+      "avgGoalsConceded": 1.5,
+      "points": 5,
+      "position": 18
+    },
+    "68": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 12,
+      "goalsAgainst": 5,
+      "cleanSheets": 1,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.03,
+      "avgGoalsConceded": 0.9,
+      "points": 11,
+      "position": 4
+    },
+    "71": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 12,
+      "goalsAgainst": 5,
+      "cleanSheets": 1,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.08,
+      "avgGoalsConceded": 0.87,
+      "points": 11,
+      "position": 3
+    },
+    "77": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 8,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.11,
+      "avgGoalsConceded": 1.42,
+      "points": 6,
+      "position": 15
+    },
+    "79": {
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 5,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.6,
+      "avgGoalsConceded": 1,
+      "points": 10,
+      "position": 4
+    },
+    "80": {
+      "played": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 9,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.8,
+      "avgGoalsConceded": 1.4,
+      "points": 9,
+      "position": 5
+    },
+    "81": {
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 5,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.8,
+      "avgGoalsConceded": 1,
+      "points": 10,
+      "position": 3
+    },
+    "82": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 9,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.88,
+      "avgGoalsConceded": 1.56,
+      "points": 6,
+      "position": 18
+    },
+    "83": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.27,
+      "avgGoalsConceded": 1.33,
+      "points": 6,
+      "position": 13
+    },
+    "84": {
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 5,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.4,
+      "avgGoalsConceded": 1,
+      "points": 8,
+      "position": 6
+    },
+    "85": {
+      "played": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 14,
+      "goalsAgainst": 3,
+      "cleanSheets": 3,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 2,
+      "avgGoalsScored": 2.8,
+      "avgGoalsConceded": 0.6,
+      "points": 15,
+      "position": 1
+    },
+    "91": {
+      "played": 5,
+      "wins": 3,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 10,
+      "goalsAgainst": 4,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 2,
+      "avgGoalsConceded": 0.8,
+      "points": 11,
+      "position": 2
+    },
+    "93": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "W",
+        "L",
+        "L",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.34,
+      "avgGoalsConceded": 1.29,
+      "points": 9,
+      "position": 12
+    },
+    "94": {
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.4,
+      "avgGoalsConceded": 1.4,
+      "points": 7,
+      "position": 8
+    },
+    "95": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.42,
+      "avgGoalsConceded": 1.24,
+      "points": 9,
+      "position": 11
+    },
+    "96": {
+      "played": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 6,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "L",
+        "D",
+        "W"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1,
+      "avgGoalsConceded": 1.2,
+      "points": 5,
+      "position": 10
+    },
+    "99": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "D",
+        "W"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.19,
+      "avgGoalsConceded": 1.38,
+      "points": 6,
+      "position": 14
+    },
+    "106": {
+      "played": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 5,
+      "goalsAgainst": 5,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "D",
+        "L",
+        "D",
+        "W"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1,
+      "avgGoalsConceded": 1,
+      "points": 6,
+      "position": 9
+    },
+    "108": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 8,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.03,
+      "avgGoalsConceded": 1.47,
+      "points": 6,
+      "position": 16
+    },
+    "112": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 9,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.96,
+      "avgGoalsConceded": 1.51,
+      "points": 6,
+      "position": 17
+    },
+    "116": {
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 6,
+      "goalsAgainst": 5,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.2,
+      "avgGoalsConceded": 1,
+      "points": 8,
+      "position": 7
+    },
+    "157": {
+      "played": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 16,
+      "goalsAgainst": 5,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 3.2,
+      "avgGoalsConceded": 1,
+      "points": 13,
+      "position": 1
+    },
+    "165": {
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 12,
+      "goalsAgainst": 7,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 2.4,
+      "avgGoalsConceded": 1.4,
+      "points": 10,
+      "position": 3
+    },
+    "168": {
+      "played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 13,
+      "goalsAgainst": 6,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 2.6,
+      "avgGoalsConceded": 1.2,
+      "points": 12,
+      "position": 2
+    },
+    "169": {
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 6,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.8,
+      "avgGoalsConceded": 1.2,
+      "points": 8,
+      "position": 6
+    },
+    "170": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.27,
+      "avgGoalsConceded": 1.33,
+      "points": 6,
+      "position": 13
+    },
+    "172": {
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 11,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 2.2,
+      "avgGoalsConceded": 1.4,
+      "points": 10,
+      "position": 5
+    },
+    "173": {
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 6,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 2,
+      "avgGoalsScored": 2,
+      "avgGoalsConceded": 1.2,
+      "points": 10,
+      "position": 4
+    },
+    "174": {
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 5,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.4,
+      "avgGoalsConceded": 1,
+      "points": 8,
+      "position": 7
+    },
+    "175": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.34,
+      "avgGoalsConceded": 1.29,
+      "points": 9,
+      "position": 12
+    },
+    "176": {
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 6,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.6,
+      "avgGoalsConceded": 1.2,
+      "points": 8,
+      "position": 8
+    },
+    "178": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 8,
+      "cleanSheets": 0,
+      "form": [
+        "D",
+        "W",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.03,
+      "avgGoalsConceded": 1.47,
+      "points": 6,
+      "position": 16
+    },
+    "180": {
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 6,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.2,
+      "avgGoalsConceded": 1.2,
+      "points": 7,
+      "position": 10
+    },
+    "181": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 9,
+      "cleanSheets": 0,
+      "form": [
+        "D",
+        "L",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.88,
+      "avgGoalsConceded": 1.56,
+      "points": 6,
+      "position": 18
+    },
+    "182": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.19,
+      "avgGoalsConceded": 1.38,
+      "points": 6,
+      "position": 14
+    },
+    "184": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.42,
+      "avgGoalsConceded": 1.24,
+      "points": 9,
+      "position": 11
+    },
+    "185": {
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "W",
+        "L",
+        "D",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 2,
+      "avgGoalsScored": 1.4,
+      "avgGoalsConceded": 1.4,
+      "points": 7,
+      "position": 9
+    },
+    "186": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 8,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "D"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.11,
+      "avgGoalsConceded": 1.42,
+      "points": 6,
+      "position": 15
+    },
+    "192": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 9,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.96,
+      "avgGoalsConceded": 1.51,
+      "points": 6,
+      "position": 17
+    },
+    "489": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 11,
+      "goalsAgainst": 7,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.83,
+      "avgGoalsConceded": 1.17,
+      "points": 11,
+      "position": 5
+    },
+    "492": {
+      "played": 6,
+      "wins": 4,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 12,
+      "goalsAgainst": 4,
+      "cleanSheets": 3,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "D"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2,
+      "avgGoalsConceded": 0.67,
+      "points": 14,
+      "position": 2
+    },
+    "496": {
+      "played": 6,
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 5,
+      "cleanSheets": 3,
+      "form": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.67,
+      "avgGoalsConceded": 0.83,
+      "points": 13,
+      "position": 3
+    },
+    "497": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 6,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "D",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.33,
+      "avgGoalsConceded": 1,
+      "points": 9,
+      "position": 7
+    },
+    "498": {
+      "played": 6,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 8,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.67,
+      "avgGoalsConceded": 1.33,
+      "points": 10,
+      "position": 6
+    },
+    "499": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 12,
+      "goalsAgainst": 7,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2,
+      "avgGoalsConceded": 1.17,
+      "points": 11,
+      "position": 4
+    },
+    "500": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.17,
+      "avgGoalsConceded": 1.17,
+      "points": 8,
+      "position": 9
+    },
+    "502": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.33,
+      "avgGoalsConceded": 1.17,
+      "points": 9,
+      "position": 8
+    },
+    "503": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 6,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1,
+      "avgGoalsConceded": 1,
+      "points": 8,
+      "position": 10
+    },
+    "504": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 8,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "D",
+        "D",
+        "W",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.15,
+      "avgGoalsConceded": 1.4,
+      "points": 6,
+      "position": 16
+    },
+    "505": {
+      "played": 6,
+      "wins": 5,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 14,
+      "goalsAgainst": 3,
+      "cleanSheets": 4,
+      "form": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.33,
+      "avgGoalsConceded": 0.5,
+      "points": 16,
+      "position": 1
+    },
+    "511": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "L",
+        "D",
+        "D",
+        "W"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.43,
+      "avgGoalsConceded": 1.24,
+      "points": 9,
+      "position": 12
+    },
+    "514": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "W",
+        "L",
+        "D",
+        "L",
+        "L"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.36,
+      "avgGoalsConceded": 1.28,
+      "points": 9,
+      "position": 13
+    },
+    "515": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.29,
+      "avgGoalsConceded": 1.32,
+      "points": 6,
+      "position": 14
+    },
+    "517": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 9,
+      "cleanSheets": 0,
+      "form": [
+        "D",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.94,
+      "avgGoalsConceded": 1.52,
+      "points": 6,
+      "position": 19
+    },
+    "520": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.5,
+      "avgGoalsConceded": 1.2,
+      "points": 9,
+      "position": 11
+    },
+    "522": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 8,
+      "cleanSheets": 0,
+      "form": [
+        "D",
+        "D",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.01,
+      "avgGoalsConceded": 1.48,
+      "points": 6,
+      "position": 18
+    },
+    "523": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "L"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.22,
+      "avgGoalsConceded": 1.36,
+      "points": 6,
+      "position": 15
+    },
+    "529": {
+      "played": 6,
+      "wins": 5,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 16,
+      "goalsAgainst": 4,
+      "cleanSheets": 4,
+      "form": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.67,
+      "avgGoalsConceded": 0.67,
+      "points": 16,
+      "position": 1
+    },
+    "530": {
+      "played": 6,
+      "wins": 4,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 10,
+      "goalsAgainst": 4,
+      "cleanSheets": 3,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "D",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.67,
+      "avgGoalsConceded": 0.67,
+      "points": 14,
+      "position": 3
+    },
+    "531": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 5,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "D",
+        "L",
+        "D",
+        "W"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.5,
+      "avgGoalsConceded": 0.83,
+      "points": 11,
+      "position": 4
+    },
+    "533": {
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 7,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "W",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.67,
+      "avgGoalsConceded": 1.17,
+      "points": 11,
+      "position": 5
+    },
+    "534": {
+      "played": 6,
+      "wins": 0,
+      "draws": 3,
+      "losses": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 9,
+      "cleanSheets": 0,
+      "form": [
+        "D",
+        "L",
+        "D",
+        "L",
+        "D"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.67,
+      "avgGoalsConceded": 1.5,
+      "points": 3,
+      "position": 18
+    },
+    "536": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 8,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.33,
+      "avgGoalsConceded": 1.33,
+      "points": 8,
+      "position": 10
+    },
+    "538": {
+      "played": 6,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "L",
+        "W",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.17,
+      "avgGoalsConceded": 1.33,
+      "points": 7,
+      "position": 12
+    },
+    "540": {
+      "played": 6,
+      "wins": 1,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 8,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "L"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.67,
+      "avgGoalsConceded": 1.33,
+      "points": 5,
+      "position": 16
+    },
+    "541": {
+      "played": 6,
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 14,
+      "goalsAgainst": 5,
+      "cleanSheets": 3,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "homeWins": 3,
+      "homePlayed": 3,
+      "awayWins": 2,
+      "awayPlayed": 3,
+      "avgGoalsScored": 2.33,
+      "avgGoalsConceded": 0.83,
+      "points": 15,
+      "position": 2
+    },
+    "542": {
+      "played": 6,
+      "wins": 1,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 5,
+      "goalsAgainst": 8,
+      "cleanSheets": 1,
+      "form": [
+        "L",
+        "D",
+        "L",
+        "D",
+        "L"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.83,
+      "avgGoalsConceded": 1.33,
+      "points": 5,
+      "position": 15
+    },
+    "543": {
+      "played": 6,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 8,
+      "goalsAgainst": 6,
+      "cleanSheets": 2,
+      "form": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.33,
+      "avgGoalsConceded": 1,
+      "points": 10,
+      "position": 6
+    },
+    "546": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 4,
+      "goalsAgainst": 6,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "L",
+        "D",
+        "L",
+        "D"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.67,
+      "avgGoalsConceded": 1,
+      "points": 6,
+      "position": 14
+    },
+    "547": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 9,
+      "goalsAgainst": 9,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.5,
+      "avgGoalsConceded": 1.5,
+      "points": 8,
+      "position": 11
+    },
+    "548": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 5,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "D",
+        "W",
+        "L",
+        "D"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.17,
+      "avgGoalsConceded": 0.83,
+      "points": 9,
+      "position": 7
+    },
+    "727": {
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 7,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.17,
+      "avgGoalsConceded": 1.17,
+      "points": 8,
+      "position": 9
+    },
+    "728": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 6,
+      "cleanSheets": 1,
+      "form": [
+        "D",
+        "D",
+        "L",
+        "D",
+        "L"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.83,
+      "avgGoalsConceded": 1,
+      "points": 6,
+      "position": 13
+    },
+    "745": {
+      "played": 6,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4,
+      "goalsFor": 4,
+      "goalsAgainst": 10,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "D",
+        "L",
+        "L"
+      ],
+      "homeWins": 1,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.67,
+      "avgGoalsConceded": 1.67,
+      "points": 4,
+      "position": 17
+    },
+    "798": {
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 6,
+      "goalsAgainst": 5,
+      "cleanSheets": 2,
+      "form": [
+        "D",
+        "W",
+        "D",
+        "D",
+        "L"
+      ],
+      "homeWins": 2,
+      "homePlayed": 3,
+      "awayWins": 0,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1,
+      "avgGoalsConceded": 0.83,
+      "points": 9,
+      "position": 8
+    },
+    "867": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 8,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "W",
+        "W",
+        "D",
+        "D"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 1.08,
+      "avgGoalsConceded": 1.44,
+      "points": 6,
+      "position": 17
+    },
+    "1579": {
+      "played": 6,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 9,
+      "cleanSheets": 0,
+      "form": [
+        "L",
+        "L",
+        "D",
+        "D",
+        "D"
+      ],
+      "homeWins": 0,
+      "homePlayed": 3,
+      "awayWins": 1,
+      "awayPlayed": 3,
+      "avgGoalsScored": 0.87,
+      "avgGoalsConceded": 1.56,
+      "points": 6,
+      "position": 20
+    }
+  },
+  "fixtures": [
+    {
+      "id": 4000,
+      "homeTeam": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "shortName": "BAY",
+        "logo": "🔴",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "leagueId": 78,
+        "venue": "Allianz Arena",
+        "founded": 1900,
+        "trophies": {
+          "league": 33,
+          "cups": 20,
+          "europe": 6
+        }
+      },
+      "awayTeam": {
+        "id": 176,
+        "name": "VfL Wolfsburg",
+        "shortName": "WOB",
+        "logo": "🟢⚪",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "leagueId": 78,
+        "venue": "Volkswagen Arena",
+        "founded": 1945,
+        "trophies": {
+          "league": 1,
+          "cups": 1,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-15",
+      "time": "20:30",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "status": "scheduled",
+      "venue": "Allianz Arena",
+      "matchweek": 1
+    },
+    {
+      "id": 2000,
+      "homeTeam": {
+        "id": 529,
+        "name": "Barcelona",
+        "shortName": "BAR",
+        "logo": "🔵🔴",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Spotify Camp Nou",
+        "founded": 1899,
+        "trophies": {
+          "league": 27,
+          "cups": 31,
+          "europe": 5
+        }
+      },
+      "awayTeam": {
+        "id": 532,
+        "name": "Valencia",
+        "shortName": "VAL",
+        "logo": "🦇",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Mestalla",
+        "founded": 1919,
+        "trophies": {
+          "league": 6,
+          "cups": 8,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-15",
+      "time": "21:00",
+      "league": "La Liga",
+      "leagueId": 140,
+      "status": "scheduled",
+      "venue": "Spotify Camp Nou",
+      "matchweek": 1
+    },
+    {
+      "id": 5000,
+      "homeTeam": {
+        "id": 85,
+        "name": "Paris Saint-Germain",
+        "shortName": "PSG",
+        "logo": "🔵🔴",
+        "country": "France",
+        "league": "Ligue 1",
+        "leagueId": 61,
+        "venue": "Parc des Princes",
+        "founded": 1970,
+        "trophies": {
+          "league": 12,
+          "cups": 14,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 108,
+        "name": "Le Havre",
+        "shortName": "HAV",
+        "logo": "🔵",
+        "country": "France",
+        "league": "Ligue 1",
+        "leagueId": 61,
+        "venue": "Stade Océane",
+        "founded": 1894,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-15",
+      "time": "21:00",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "status": "scheduled",
+      "venue": "Parc des Princes",
+      "matchweek": 1
+    },
+    {
+      "id": 1000,
+      "homeTeam": {
+        "id": 42,
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "logo": "🔴",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Emirates Stadium",
+        "founded": 1886,
+        "trophies": {
+          "league": 13,
+          "cups": 14,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 63,
+        "name": "Nottingham Forest",
+        "shortName": "NFO",
+        "logo": "🔴",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "City Ground",
+        "founded": 1865,
+        "trophies": {
+          "league": 1,
+          "cups": 2,
+          "europe": 2
+        }
+      },
+      "date": "2025-08-16",
+      "time": "12:30",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Emirates Stadium",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1001,
+      "homeTeam": {
+        "id": 40,
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "logo": "🔴",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Anfield",
+        "founded": 1892,
+        "trophies": {
+          "league": 19,
+          "cups": 8,
+          "europe": 6
+        }
+      },
+      "awayTeam": {
+        "id": 44,
+        "name": "Burnley",
+        "shortName": "BUR",
+        "logo": "🍷",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Turf Moor",
+        "founded": 1882,
+        "trophies": {
+          "league": 2,
+          "cups": 1,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Anfield",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1003,
+      "homeTeam": {
+        "id": 47,
+        "name": "Tottenham Hotspur",
+        "shortName": "TOT",
+        "logo": "⚪",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Tottenham Hotspur Stadium",
+        "founded": 1882,
+        "trophies": {
+          "league": 2,
+          "cups": 8,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 65,
+        "name": "Aston Villa",
+        "shortName": "AVL",
+        "logo": "🟤",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Villa Park",
+        "founded": 1874,
+        "trophies": {
+          "league": 7,
+          "cups": 7,
+          "europe": 1
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Tottenham Hotspur Stadium",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1004,
+      "homeTeam": {
+        "id": 33,
+        "name": "Manchester United",
+        "shortName": "MUN",
+        "logo": "🔴",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Old Trafford",
+        "founded": 1878,
+        "trophies": {
+          "league": 20,
+          "cups": 12,
+          "europe": 3
+        }
+      },
+      "awayTeam": {
+        "id": 36,
+        "name": "Fulham",
+        "shortName": "FUL",
+        "logo": "⚪",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Craven Cottage",
+        "founded": 1879,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Old Trafford",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1005,
+      "homeTeam": {
+        "id": 34,
+        "name": "Newcastle United",
+        "shortName": "NEW",
+        "logo": "⚫",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "St. James' Park",
+        "founded": 1892,
+        "trophies": {
+          "league": 4,
+          "cups": 6,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 35,
+        "name": "Bournemouth",
+        "shortName": "BOU",
+        "logo": "🍒",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Vitality Stadium",
+        "founded": 1899,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "St. James' Park",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1006,
+      "homeTeam": {
+        "id": 45,
+        "name": "Everton",
+        "shortName": "EVE",
+        "logo": "🔵",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Goodison Park",
+        "founded": 1878,
+        "trophies": {
+          "league": 9,
+          "cups": 5,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 51,
+        "name": "Brighton & Hove Albion",
+        "shortName": "BHA",
+        "logo": "🔵",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Amex Stadium",
+        "founded": 1901,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Goodison Park",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1007,
+      "homeTeam": {
+        "id": 48,
+        "name": "West Ham United",
+        "shortName": "WHU",
+        "logo": "🍷",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "London Stadium",
+        "founded": 1895,
+        "trophies": {
+          "league": 0,
+          "cups": 3,
+          "europe": 1
+        }
+      },
+      "awayTeam": {
+        "id": 52,
+        "name": "Crystal Palace",
+        "shortName": "CRY",
+        "logo": "🔴🔵",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Selhurst Park",
+        "founded": 1905,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "London Stadium",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1008,
+      "homeTeam": {
+        "id": 55,
+        "name": "Brentford",
+        "shortName": "BRE",
+        "logo": "🐝",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Gtech Community Stadium",
+        "founded": 1889,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 39,
+        "name": "Wolverhampton Wanderers",
+        "shortName": "WOL",
+        "logo": "🟠",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Molineux Stadium",
+        "founded": 1877,
+        "trophies": {
+          "league": 3,
+          "cups": 4,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Gtech Community Stadium",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 4001,
+      "homeTeam": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "shortName": "BVB",
+        "logo": "🟡⚫",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "leagueId": 78,
+        "venue": "Signal Iduna Park",
+        "founded": 1909,
+        "trophies": {
+          "league": 8,
+          "cups": 5,
+          "europe": 1
+        }
+      },
+      "awayTeam": {
+        "id": 169,
+        "name": "Eintracht Frankfurt",
+        "shortName": "SGE",
+        "logo": "⚫🔴",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "leagueId": 78,
+        "venue": "Deutsche Bank Park",
+        "founded": 1899,
+        "trophies": {
+          "league": 1,
+          "cups": 5,
+          "europe": 1
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:30",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "status": "scheduled",
+      "venue": "Signal Iduna Park",
+      "matchweek": 1
+    },
+    {
+      "id": 4002,
+      "homeTeam": {
+        "id": 168,
+        "name": "Bayer Leverkusen",
+        "shortName": "LEV",
+        "logo": "🔴⚫",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "leagueId": 78,
+        "venue": "BayArena",
+        "founded": 1904,
+        "trophies": {
+          "league": 1,
+          "cups": 2,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 173,
+        "name": "RB Leipzig",
+        "shortName": "RBL",
+        "logo": "🔴⚪",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "leagueId": 78,
+        "venue": "Red Bull Arena",
+        "founded": 2009,
+        "trophies": {
+          "league": 0,
+          "cups": 2,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "15:30",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "status": "scheduled",
+      "venue": "BayArena",
+      "matchweek": 1
+    },
+    {
+      "id": 5001,
+      "homeTeam": {
+        "id": 81,
+        "name": "Marseille",
+        "shortName": "OM",
+        "logo": "🔵⚪",
+        "country": "France",
+        "league": "Ligue 1",
+        "leagueId": 61,
+        "venue": "Orange Vélodrome",
+        "founded": 1899,
+        "trophies": {
+          "league": 9,
+          "cups": 10,
+          "europe": 1
+        }
+      },
+      "awayTeam": {
+        "id": 93,
+        "name": "Reims",
+        "shortName": "REI",
+        "logo": "🔴⚪",
+        "country": "France",
+        "league": "Ligue 1",
+        "leagueId": 61,
+        "venue": "Stade Auguste-Delaune",
+        "founded": 1931,
+        "trophies": {
+          "league": 6,
+          "cups": 2,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "17:00",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "status": "scheduled",
+      "venue": "Orange Vélodrome",
+      "matchweek": 1
+    },
+    {
+      "id": 1002,
+      "homeTeam": {
+        "id": 50,
+        "name": "Manchester City",
+        "shortName": "MCI",
+        "logo": "🩵",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Etihad Stadium",
+        "founded": 1880,
+        "trophies": {
+          "league": 10,
+          "cups": 7,
+          "europe": 1
+        }
+      },
+      "awayTeam": {
+        "id": 49,
+        "name": "Chelsea",
+        "shortName": "CHE",
+        "logo": "🔵",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Stamford Bridge",
+        "founded": 1905,
+        "trophies": {
+          "league": 6,
+          "cups": 8,
+          "europe": 2
+        }
+      },
+      "date": "2025-08-16",
+      "time": "17:30",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Etihad Stadium",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 4003,
+      "homeTeam": {
+        "id": 172,
+        "name": "VfB Stuttgart",
+        "shortName": "VFB",
+        "logo": "🔴⚪",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "leagueId": 78,
+        "venue": "MHP Arena",
+        "founded": 1893,
+        "trophies": {
+          "league": 5,
+          "cups": 3,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 174,
+        "name": "SC Freiburg",
+        "shortName": "SCF",
+        "logo": "⚫🔴",
+        "country": "Germany",
+        "league": "Bundesliga",
+        "leagueId": 78,
+        "venue": "Europa-Park Stadion",
+        "founded": 1904,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "18:30",
+      "league": "Bundesliga",
+      "leagueId": 78,
+      "status": "scheduled",
+      "venue": "MHP Arena",
+      "matchweek": 1
+    },
+    {
+      "id": 1009,
+      "homeTeam": {
+        "id": 62,
+        "name": "Sheffield United",
+        "shortName": "SHU",
+        "logo": "🔴",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Bramall Lane",
+        "founded": 1889,
+        "trophies": {
+          "league": 1,
+          "cups": 4,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 66,
+        "name": "Leeds United",
+        "shortName": "LEE",
+        "logo": "⚪",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Elland Road",
+        "founded": 1919,
+        "trophies": {
+          "league": 3,
+          "cups": 1,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "20:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Bramall Lane",
+      "matchweek": 1,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 2001,
+      "homeTeam": {
+        "id": 541,
+        "name": "Real Madrid",
+        "shortName": "RMA",
+        "logo": "⚪",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Santiago Bernabéu",
+        "founded": 1902,
+        "trophies": {
+          "league": 36,
+          "cups": 20,
+          "europe": 15
+        }
+      },
+      "awayTeam": {
+        "id": 536,
+        "name": "Sevilla",
+        "shortName": "SEV",
+        "logo": "⚪🔴",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Ramón Sánchez-Pizjuán",
+        "founded": 1890,
+        "trophies": {
+          "league": 1,
+          "cups": 5,
+          "europe": 7
+        }
+      },
+      "date": "2025-08-16",
+      "time": "21:00",
+      "league": "La Liga",
+      "leagueId": 140,
+      "status": "scheduled",
+      "venue": "Santiago Bernabéu",
+      "matchweek": 1
+    },
+    {
+      "id": 5002,
+      "homeTeam": {
+        "id": 91,
+        "name": "Monaco",
+        "shortName": "ASM",
+        "logo": "🔴⚪",
+        "country": "France",
+        "league": "Ligue 1",
+        "leagueId": 61,
+        "venue": "Stade Louis II",
+        "founded": 1924,
+        "trophies": {
+          "league": 8,
+          "cups": 5,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 95,
+        "name": "Strasbourg",
+        "shortName": "STR",
+        "logo": "🔵⚪",
+        "country": "France",
+        "league": "Ligue 1",
+        "leagueId": 61,
+        "venue": "Stade de la Meinau",
+        "founded": 1906,
+        "trophies": {
+          "league": 1,
+          "cups": 3,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-16",
+      "time": "21:00",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "status": "scheduled",
+      "venue": "Stade Louis II",
+      "matchweek": 1
+    },
+    {
+      "id": 5003,
+      "homeTeam": {
+        "id": 79,
+        "name": "Lille",
+        "shortName": "LIL",
+        "logo": "🔴⚪",
+        "country": "France",
+        "league": "Ligue 1",
+        "leagueId": 61,
+        "venue": "Stade Pierre-Mauroy",
+        "founded": 1944,
+        "trophies": {
+          "league": 4,
+          "cups": 6,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 94,
+        "name": "Rennes",
+        "shortName": "REN",
+        "logo": "🔴⚫",
+        "country": "France",
+        "league": "Ligue 1",
+        "leagueId": 61,
+        "venue": "Roazhon Park",
+        "founded": 1901,
+        "trophies": {
+          "league": 0,
+          "cups": 3,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-17",
+      "time": "15:00",
+      "league": "Ligue 1",
+      "leagueId": 61,
+      "status": "scheduled",
+      "venue": "Stade Pierre-Mauroy",
+      "matchweek": 1
+    },
+    {
+      "id": 2003,
+      "homeTeam": {
+        "id": 531,
+        "name": "Athletic Bilbao",
+        "shortName": "ATH",
+        "logo": "🔴⚪",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "San Mamés",
+        "founded": 1898,
+        "trophies": {
+          "league": 8,
+          "cups": 24,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 533,
+        "name": "Villarreal",
+        "shortName": "VIL",
+        "logo": "🟡",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Estadio de la Cerámica",
+        "founded": 1923,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 1
+        }
+      },
+      "date": "2025-08-17",
+      "time": "16:15",
+      "league": "La Liga",
+      "leagueId": 140,
+      "status": "scheduled",
+      "venue": "San Mamés",
+      "matchweek": 1
+    },
+    {
+      "id": 2002,
+      "homeTeam": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "shortName": "ATM",
+        "logo": "🔴⚪",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Civitas Metropolitano",
+        "founded": 1903,
+        "trophies": {
+          "league": 11,
+          "cups": 10,
+          "europe": 3
+        }
+      },
+      "awayTeam": {
+        "id": 543,
+        "name": "Real Betis",
+        "shortName": "BET",
+        "logo": "💚",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Benito Villamarín",
+        "founded": 1907,
+        "trophies": {
+          "league": 1,
+          "cups": 3,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-17",
+      "time": "18:30",
+      "league": "La Liga",
+      "leagueId": 140,
+      "status": "scheduled",
+      "venue": "Civitas Metropolitano",
+      "matchweek": 1
+    },
+    {
+      "id": 3000,
+      "homeTeam": {
+        "id": 505,
+        "name": "Inter Milan",
+        "shortName": "INT",
+        "logo": "🔵⚫",
+        "country": "Italy",
+        "league": "Serie A",
+        "leagueId": 135,
+        "venue": "San Siro",
+        "founded": 1908,
+        "trophies": {
+          "league": 20,
+          "cups": 9,
+          "europe": 3
+        }
+      },
+      "awayTeam": {
+        "id": 514,
+        "name": "Genoa",
+        "shortName": "GEN",
+        "logo": "🔴🔵",
+        "country": "Italy",
+        "league": "Serie A",
+        "leagueId": 135,
+        "venue": "Luigi Ferraris",
+        "founded": 1893,
+        "trophies": {
+          "league": 9,
+          "cups": 1,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-17",
+      "time": "18:30",
+      "league": "Serie A",
+      "leagueId": 135,
+      "status": "scheduled",
+      "venue": "San Siro",
+      "matchweek": 1
+    },
+    {
+      "id": 3001,
+      "homeTeam": {
+        "id": 489,
+        "name": "AC Milan",
+        "shortName": "MIL",
+        "logo": "🔴⚫",
+        "country": "Italy",
+        "league": "Serie A",
+        "leagueId": 135,
+        "venue": "San Siro",
+        "founded": 1899,
+        "trophies": {
+          "league": 19,
+          "cups": 5,
+          "europe": 7
+        }
+      },
+      "awayTeam": {
+        "id": 503,
+        "name": "Torino",
+        "shortName": "TOR",
+        "logo": "🍷",
+        "country": "Italy",
+        "league": "Serie A",
+        "leagueId": 135,
+        "venue": "Stadio Olimpico Grande Torino",
+        "founded": 1906,
+        "trophies": {
+          "league": 7,
+          "cups": 5,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-17",
+      "time": "20:45",
+      "league": "Serie A",
+      "leagueId": 135,
+      "status": "scheduled",
+      "venue": "San Siro",
+      "matchweek": 1
+    },
+    {
+      "id": 3003,
+      "homeTeam": {
+        "id": 492,
+        "name": "Napoli",
+        "shortName": "NAP",
+        "logo": "🔵",
+        "country": "Italy",
+        "league": "Serie A",
+        "leagueId": 135,
+        "venue": "Diego Armando Maradona",
+        "founded": 1926,
+        "trophies": {
+          "league": 3,
+          "cups": 6,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 500,
+        "name": "Bologna",
+        "shortName": "BOL",
+        "logo": "🔵🔴",
+        "country": "Italy",
+        "league": "Serie A",
+        "leagueId": 135,
+        "venue": "Renato Dall'Ara",
+        "founded": 1909,
+        "trophies": {
+          "league": 7,
+          "cups": 2,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-18",
+      "time": "18:30",
+      "league": "Serie A",
+      "leagueId": 135,
+      "status": "scheduled",
+      "venue": "Diego Armando Maradona",
+      "matchweek": 1
+    },
+    {
+      "id": 3002,
+      "homeTeam": {
+        "id": 496,
+        "name": "Juventus",
+        "shortName": "JUV",
+        "logo": "⚫⚪",
+        "country": "Italy",
+        "league": "Serie A",
+        "leagueId": 135,
+        "venue": "Allianz Stadium",
+        "founded": 1897,
+        "trophies": {
+          "league": 36,
+          "cups": 14,
+          "europe": 2
+        }
+      },
+      "awayTeam": {
+        "id": 867,
+        "name": "Como",
+        "shortName": "COM",
+        "logo": "🔵",
+        "country": "Italy",
+        "league": "Serie A",
+        "leagueId": 135,
+        "venue": "Stadio Giuseppe Sinigaglia",
+        "founded": 1907,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-18",
+      "time": "20:45",
+      "league": "Serie A",
+      "leagueId": 135,
+      "status": "scheduled",
+      "venue": "Allianz Stadium",
+      "matchweek": 1
+    },
+    {
+      "id": 1100,
+      "homeTeam": {
+        "id": 49,
+        "name": "Chelsea",
+        "shortName": "CHE",
+        "logo": "🔵",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Stamford Bridge",
+        "founded": 1905,
+        "trophies": {
+          "league": 6,
+          "cups": 8,
+          "europe": 2
+        }
+      },
+      "awayTeam": {
+        "id": 42,
+        "name": "Arsenal",
+        "shortName": "ARS",
+        "logo": "🔴",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Emirates Stadium",
+        "founded": 1886,
+        "trophies": {
+          "league": 13,
+          "cups": 14,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-23",
+      "time": "12:30",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Stamford Bridge",
+      "matchweek": 2,
+      "tvChannel": "BT Sport"
+    },
+    {
+      "id": 1102,
+      "homeTeam": {
+        "id": 65,
+        "name": "Aston Villa",
+        "shortName": "AVL",
+        "logo": "🟤",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Villa Park",
+        "founded": 1874,
+        "trophies": {
+          "league": 7,
+          "cups": 7,
+          "europe": 1
+        }
+      },
+      "awayTeam": {
+        "id": 50,
+        "name": "Manchester City",
+        "shortName": "MCI",
+        "logo": "🩵",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Etihad Stadium",
+        "founded": 1880,
+        "trophies": {
+          "league": 10,
+          "cups": 7,
+          "europe": 1
+        }
+      },
+      "date": "2025-08-23",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Villa Park",
+      "matchweek": 2,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1103,
+      "homeTeam": {
+        "id": 36,
+        "name": "Fulham",
+        "shortName": "FUL",
+        "logo": "⚪",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Craven Cottage",
+        "founded": 1879,
+        "trophies": {
+          "league": 0,
+          "cups": 0,
+          "europe": 0
+        }
+      },
+      "awayTeam": {
+        "id": 34,
+        "name": "Newcastle United",
+        "shortName": "NEW",
+        "logo": "⚫",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "St. James' Park",
+        "founded": 1892,
+        "trophies": {
+          "league": 4,
+          "cups": 6,
+          "europe": 0
+        }
+      },
+      "date": "2025-08-23",
+      "time": "15:00",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "Craven Cottage",
+      "matchweek": 2,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 1101,
+      "homeTeam": {
+        "id": 63,
+        "name": "Nottingham Forest",
+        "shortName": "NFO",
+        "logo": "🔴",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "City Ground",
+        "founded": 1865,
+        "trophies": {
+          "league": 1,
+          "cups": 2,
+          "europe": 2
+        }
+      },
+      "awayTeam": {
+        "id": 40,
+        "name": "Liverpool",
+        "shortName": "LIV",
+        "logo": "🔴",
+        "country": "England",
+        "league": "Premier League",
+        "leagueId": 39,
+        "venue": "Anfield",
+        "founded": 1892,
+        "trophies": {
+          "league": 19,
+          "cups": 8,
+          "europe": 6
+        }
+      },
+      "date": "2025-08-23",
+      "time": "17:30",
+      "league": "Premier League",
+      "leagueId": 39,
+      "status": "scheduled",
+      "venue": "City Ground",
+      "matchweek": 2,
+      "tvChannel": "Sky Sports"
+    },
+    {
+      "id": 2999,
+      "homeTeam": {
+        "id": 541,
+        "name": "Real Madrid",
+        "shortName": "RMA",
+        "logo": "⚪",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Santiago Bernabéu",
+        "founded": 1902,
+        "trophies": {
+          "league": 36,
+          "cups": 20,
+          "europe": 15
+        }
+      },
+      "awayTeam": {
+        "id": 529,
+        "name": "Barcelona",
+        "shortName": "BAR",
+        "logo": "🔵🔴",
+        "country": "Spain",
+        "league": "La Liga",
+        "leagueId": 140,
+        "venue": "Spotify Camp Nou",
+        "founded": 1899,
+        "trophies": {
+          "league": 27,
+          "cups": 31,
+          "europe": 5
+        }
+      },
+      "date": "2025-10-26",
+      "time": "21:00",
+      "league": "La Liga",
+      "leagueId": 140,
+      "status": "scheduled",
+      "venue": "Santiago Bernabéu",
+      "matchweek": 10,
+      "tvChannel": "DAZN"
+    }
+  ],
+  "liveMatches": [],
+  "players": {
+    "40": [
+      {
+        "id": 1,
+        "name": "Mohamed Salah",
+        "position": "RW",
+        "number": 11,
+        "goals": 23,
+        "assists": 15,
+        "appearances": 35,
+        "rating": 8.6,
+        "nationality": "Egypt",
+        "age": 33,
+        "currentClub": "Liverpool",
+        "marketValue": "45M"
+      },
+      {
+        "id": 2,
+        "name": "Darwin Núñez",
+        "position": "ST",
+        "number": 9,
+        "goals": 14,
+        "assists": 8,
+        "appearances": 38,
+        "rating": 7.5,
+        "nationality": "Uruguay",
+        "age": 26,
+        "currentClub": "Liverpool",
+        "marketValue": "70M"
+      },
+      {
+        "id": 3,
+        "name": "Cody Gakpo",
+        "position": "LW",
+        "number": 18,
+        "goals": 16,
+        "assists": 7,
+        "appearances": 40,
+        "rating": 7.8,
+        "nationality": "Netherlands",
+        "age": 26,
+        "currentClub": "Liverpool",
+        "marketValue": "60M"
+      },
+      {
+        "id": 4,
+        "name": "Luis Díaz",
+        "position": "LW",
+        "number": 7,
+        "goals": 12,
+        "assists": 6,
+        "appearances": 34,
+        "rating": 7.6,
+        "nationality": "Colombia",
+        "age": 28,
+        "currentClub": "Liverpool",
+        "marketValue": "55M"
+      },
+      {
+        "id": 5,
+        "name": "Alexis Mac Allister",
+        "position": "CM",
+        "number": 10,
+        "goals": 6,
+        "assists": 9,
+        "appearances": 36,
+        "rating": 7.9,
+        "nationality": "Argentina",
+        "age": 26,
+        "currentClub": "Liverpool",
+        "marketValue": "80M"
+      }
+    ],
+    "42": [
+      {
+        "id": 6,
+        "name": "Bukayo Saka",
+        "position": "RW",
+        "number": 7,
+        "goals": 17,
+        "assists": 12,
+        "appearances": 36,
+        "rating": 8.3,
+        "nationality": "England",
+        "age": 23,
+        "currentClub": "Arsenal",
+        "marketValue": "120M"
+      },
+      {
+        "id": 7,
+        "name": "Martin Ødegaard",
+        "position": "CAM",
+        "number": 8,
+        "goals": 10,
+        "assists": 11,
+        "appearances": 32,
+        "rating": 8.1,
+        "nationality": "Norway",
+        "age": 26,
+        "currentClub": "Arsenal",
+        "marketValue": "110M"
+      },
+      {
+        "id": 8,
+        "name": "Kai Havertz",
+        "position": "ST",
+        "number": 29,
+        "goals": 15,
+        "assists": 8,
+        "appearances": 38,
+        "rating": 7.8,
+        "nationality": "Germany",
+        "age": 26,
+        "currentClub": "Arsenal",
+        "marketValue": "75M"
+      },
+      {
+        "id": 9,
+        "name": "Gabriel Martinelli",
+        "position": "LW",
+        "number": 11,
+        "goals": 11,
+        "assists": 7,
+        "appearances": 35,
+        "rating": 7.6,
+        "nationality": "Brazil",
+        "age": 24,
+        "currentClub": "Arsenal",
+        "marketValue": "70M"
+      },
+      {
+        "id": 10,
+        "name": "Declan Rice",
+        "position": "CDM",
+        "number": 41,
+        "goals": 5,
+        "assists": 8,
+        "appearances": 36,
+        "rating": 8,
+        "nationality": "England",
+        "age": 26,
+        "currentClub": "Arsenal",
+        "marketValue": "100M"
+      }
+    ],
+    "49": [
+      {
+        "id": 16,
+        "name": "Cole Palmer",
+        "position": "CAM",
+        "number": 20,
+        "goals": 25,
+        "assists": 14,
+        "appearances": 38,
+        "rating": 8.5,
+        "nationality": "England",
+        "age": 23,
+        "currentClub": "Chelsea",
+        "marketValue": "100M"
+      },
+      {
+        "id": 17,
+        "name": "Nicolas Jackson",
+        "position": "ST",
+        "number": 15,
+        "goals": 18,
+        "assists": 8,
+        "appearances": 36,
+        "rating": 7.6,
+        "nationality": "Senegal",
+        "age": 24,
+        "currentClub": "Chelsea",
+        "marketValue": "55M"
+      },
+      {
+        "id": 18,
+        "name": "Noni Madueke",
+        "position": "RW",
+        "number": 11,
+        "goals": 12,
+        "assists": 6,
+        "appearances": 32,
+        "rating": 7.5,
+        "nationality": "England",
+        "age": 23,
+        "currentClub": "Chelsea",
+        "marketValue": "50M"
+      },
+      {
+        "id": 19,
+        "name": "Enzo Fernández",
+        "position": "CM",
+        "number": 8,
+        "goals": 5,
+        "assists": 9,
+        "appearances": 34,
+        "rating": 7.4,
+        "nationality": "Argentina",
+        "age": 24,
+        "currentClub": "Chelsea",
+        "marketValue": "80M"
+      },
+      {
+        "id": 20,
+        "name": "Moisés Caicedo",
+        "position": "CDM",
+        "number": 25,
+        "goals": 3,
+        "assists": 5,
+        "appearances": 36,
+        "rating": 7.7,
+        "nationality": "Ecuador",
+        "age": 23,
+        "currentClub": "Chelsea",
+        "marketValue": "90M"
+      }
+    ],
+    "50": [
+      {
+        "id": 11,
+        "name": "Erling Haaland",
+        "position": "ST",
+        "number": 9,
+        "goals": 35,
+        "assists": 6,
+        "appearances": 38,
+        "rating": 8.8,
+        "nationality": "Norway",
+        "age": 25,
+        "currentClub": "Manchester City",
+        "marketValue": "180M"
+      },
+      {
+        "id": 12,
+        "name": "Phil Foden",
+        "position": "CAM",
+        "number": 47,
+        "goals": 14,
+        "assists": 10,
+        "appearances": 34,
+        "rating": 8.2,
+        "nationality": "England",
+        "age": 25,
+        "currentClub": "Manchester City",
+        "marketValue": "120M"
+      },
+      {
+        "id": 13,
+        "name": "Savinho",
+        "position": "RW",
+        "number": 26,
+        "goals": 8,
+        "assists": 12,
+        "appearances": 32,
+        "rating": 7.7,
+        "nationality": "Brazil",
+        "age": 21,
+        "currentClub": "Manchester City",
+        "marketValue": "65M"
+      },
+      {
+        "id": 14,
+        "name": "Jeremy Doku",
+        "position": "LW",
+        "number": 11,
+        "goals": 7,
+        "assists": 9,
+        "appearances": 30,
+        "rating": 7.4,
+        "nationality": "Belgium",
+        "age": 23,
+        "currentClub": "Manchester City",
+        "marketValue": "70M"
+      },
+      {
+        "id": 15,
+        "name": "Rodri",
+        "position": "CDM",
+        "number": 16,
+        "goals": 4,
+        "assists": 6,
+        "appearances": 28,
+        "rating": 8.4,
+        "nationality": "Spain",
+        "age": 29,
+        "currentClub": "Manchester City",
+        "marketValue": "120M"
+      }
+    ],
+    "85": [
+      {
+        "id": 36,
+        "name": "Bradley Barcola",
+        "position": "LW",
+        "number": 29,
+        "goals": 18,
+        "assists": 10,
+        "appearances": 36,
+        "rating": 8,
+        "nationality": "France",
+        "age": 22,
+        "currentClub": "PSG",
+        "marketValue": "70M"
+      },
+      {
+        "id": 37,
+        "name": "Ousmane Dembélé",
+        "position": "RW",
+        "number": 10,
+        "goals": 14,
+        "assists": 14,
+        "appearances": 34,
+        "rating": 7.9,
+        "nationality": "France",
+        "age": 28,
+        "currentClub": "PSG",
+        "marketValue": "60M"
+      },
+      {
+        "id": 38,
+        "name": "Gonçalo Ramos",
+        "position": "ST",
+        "number": 9,
+        "goals": 16,
+        "assists": 6,
+        "appearances": 32,
+        "rating": 7.7,
+        "nationality": "Portugal",
+        "age": 24,
+        "currentClub": "PSG",
+        "marketValue": "50M"
+      },
+      {
+        "id": 39,
+        "name": "Vitinha",
+        "position": "CM",
+        "number": 17,
+        "goals": 6,
+        "assists": 12,
+        "appearances": 36,
+        "rating": 7.9,
+        "nationality": "Portugal",
+        "age": 25,
+        "currentClub": "PSG",
+        "marketValue": "75M"
+      },
+      {
+        "id": 40,
+        "name": "Warren Zaïre-Emery",
+        "position": "CM",
+        "number": 33,
+        "goals": 5,
+        "assists": 7,
+        "appearances": 34,
+        "rating": 7.6,
+        "nationality": "France",
+        "age": 19,
+        "currentClub": "PSG",
+        "marketValue": "60M"
+      }
+    ],
+    "157": [
+      {
+        "id": 31,
+        "name": "Harry Kane",
+        "position": "ST",
+        "number": 9,
+        "goals": 36,
+        "assists": 10,
+        "appearances": 38,
+        "rating": 8.9,
+        "nationality": "England",
+        "age": 32,
+        "currentClub": "Bayern Munich",
+        "marketValue": "80M"
+      },
+      {
+        "id": 32,
+        "name": "Jamal Musiala",
+        "position": "CAM",
+        "number": 42,
+        "goals": 14,
+        "assists": 12,
+        "appearances": 36,
+        "rating": 8.4,
+        "nationality": "Germany",
+        "age": 22,
+        "currentClub": "Bayern Munich",
+        "marketValue": "130M"
+      },
+      {
+        "id": 33,
+        "name": "Michael Olise",
+        "position": "RW",
+        "number": 7,
+        "goals": 12,
+        "assists": 10,
+        "appearances": 32,
+        "rating": 8.1,
+        "nationality": "France",
+        "age": 23,
+        "currentClub": "Bayern Munich",
+        "marketValue": "70M"
+      },
+      {
+        "id": 34,
+        "name": "Leroy Sané",
+        "position": "LW",
+        "number": 10,
+        "goals": 10,
+        "assists": 11,
+        "appearances": 34,
+        "rating": 7.8,
+        "nationality": "Germany",
+        "age": 29,
+        "currentClub": "Bayern Munich",
+        "marketValue": "50M"
+      },
+      {
+        "id": 35,
+        "name": "Joshua Kimmich",
+        "position": "CDM",
+        "number": 6,
+        "goals": 3,
+        "assists": 9,
+        "appearances": 35,
+        "rating": 8,
+        "nationality": "Germany",
+        "age": 30,
+        "currentClub": "Bayern Munich",
+        "marketValue": "50M"
+      }
+    ],
+    "492": [
+      {
+        "id": 41,
+        "name": "Kevin De Bruyne",
+        "position": "CAM",
+        "number": 17,
+        "goals": 8,
+        "assists": 14,
+        "appearances": 28,
+        "rating": 8.2,
+        "nationality": "Belgium",
+        "age": 34,
+        "currentClub": "Napoli",
+        "previousClubs": [
+          "Manchester City",
+          "Wolfsburg",
+          "Chelsea"
+        ],
+        "marketValue": "25M",
+        "joinedDate": "2025-07-01"
+      },
+      {
+        "id": 42,
+        "name": "Victor Osimhen",
+        "position": "ST",
+        "number": 9,
+        "goals": 22,
+        "assists": 5,
+        "appearances": 32,
+        "rating": 8.1,
+        "nationality": "Nigeria",
+        "age": 26,
+        "currentClub": "Napoli",
+        "marketValue": "100M"
+      },
+      {
+        "id": 43,
+        "name": "Khvicha Kvaratskhelia",
+        "position": "LW",
+        "number": 77,
+        "goals": 14,
+        "assists": 12,
+        "appearances": 34,
+        "rating": 8,
+        "nationality": "Georgia",
+        "age": 24,
+        "currentClub": "Napoli",
+        "marketValue": "85M"
+      },
+      {
+        "id": 44,
+        "name": "Giovanni Di Lorenzo",
+        "position": "RB",
+        "number": 22,
+        "goals": 3,
+        "assists": 6,
+        "appearances": 35,
+        "rating": 7.5,
+        "nationality": "Italy",
+        "age": 31,
+        "currentClub": "Napoli",
+        "marketValue": "25M"
+      },
+      {
+        "id": 45,
+        "name": "André-Frank Zambo Anguissa",
+        "position": "CM",
+        "number": 99,
+        "goals": 4,
+        "assists": 5,
+        "appearances": 33,
+        "rating": 7.4,
+        "nationality": "Cameroon",
+        "age": 29,
+        "currentClub": "Napoli",
+        "marketValue": "30M"
+      }
+    ],
+    "505": [
+      {
+        "id": 46,
+        "name": "Lautaro Martínez",
+        "position": "ST",
+        "number": 10,
+        "goals": 24,
+        "assists": 6,
+        "appearances": 36,
+        "rating": 8.3,
+        "nationality": "Argentina",
+        "age": 28,
+        "currentClub": "Inter Milan",
+        "marketValue": "100M"
+      },
+      {
+        "id": 47,
+        "name": "Marcus Thuram",
+        "position": "ST",
+        "number": 9,
+        "goals": 18,
+        "assists": 8,
+        "appearances": 35,
+        "rating": 8,
+        "nationality": "France",
+        "age": 28,
+        "currentClub": "Inter Milan",
+        "marketValue": "70M"
+      },
+      {
+        "id": 48,
+        "name": "Hakan Çalhanoğlu",
+        "position": "CM",
+        "number": 20,
+        "goals": 8,
+        "assists": 7,
+        "appearances": 34,
+        "rating": 7.8,
+        "nationality": "Turkey",
+        "age": 31,
+        "currentClub": "Inter Milan",
+        "marketValue": "35M"
+      },
+      {
+        "id": 49,
+        "name": "Nicolò Barella",
+        "position": "CM",
+        "number": 23,
+        "goals": 5,
+        "assists": 12,
+        "appearances": 35,
+        "rating": 8.1,
+        "nationality": "Italy",
+        "age": 28,
+        "currentClub": "Inter Milan",
+        "marketValue": "80M"
+      },
+      {
+        "id": 50,
+        "name": "Federico Dimarco",
+        "position": "LB",
+        "number": 32,
+        "goals": 4,
+        "assists": 10,
+        "appearances": 36,
+        "rating": 7.7,
+        "nationality": "Italy",
+        "age": 27,
+        "currentClub": "Inter Milan",
+        "marketValue": "55M"
+      }
+    ],
+    "529": [
+      {
+        "id": 26,
+        "name": "Lamine Yamal",
+        "position": "RW",
+        "number": 19,
+        "goals": 15,
+        "assists": 18,
+        "appearances": 40,
+        "rating": 8.7,
+        "nationality": "Spain",
+        "age": 18,
+        "currentClub": "Barcelona",
+        "marketValue": "150M"
+      },
+      {
+        "id": 27,
+        "name": "Robert Lewandowski",
+        "position": "ST",
+        "number": 9,
+        "goals": 28,
+        "assists": 6,
+        "appearances": 38,
+        "rating": 8.4,
+        "nationality": "Poland",
+        "age": 37,
+        "currentClub": "Barcelona",
+        "marketValue": "15M"
+      },
+      {
+        "id": 28,
+        "name": "Raphinha",
+        "position": "LW",
+        "number": 11,
+        "goals": 18,
+        "assists": 12,
+        "appearances": 36,
+        "rating": 8.2,
+        "nationality": "Brazil",
+        "age": 28,
+        "currentClub": "Barcelona",
+        "marketValue": "70M"
+      },
+      {
+        "id": 29,
+        "name": "Pedri",
+        "position": "CM",
+        "number": 8,
+        "goals": 7,
+        "assists": 12,
+        "appearances": 32,
+        "rating": 8.1,
+        "nationality": "Spain",
+        "age": 22,
+        "currentClub": "Barcelona",
+        "marketValue": "100M"
+      },
+      {
+        "id": 30,
+        "name": "Gavi",
+        "position": "CM",
+        "number": 6,
+        "goals": 4,
+        "assists": 8,
+        "appearances": 28,
+        "rating": 7.8,
+        "nationality": "Spain",
+        "age": 21,
+        "currentClub": "Barcelona",
+        "marketValue": "80M"
+      }
+    ],
+    "541": [
+      {
+        "id": 21,
+        "name": "Vinícius Jr",
+        "position": "LW",
+        "number": 7,
+        "goals": 22,
+        "assists": 11,
+        "appearances": 36,
+        "rating": 8.6,
+        "nationality": "Brazil",
+        "age": 25,
+        "currentClub": "Real Madrid",
+        "marketValue": "180M"
+      },
+      {
+        "id": 22,
+        "name": "Kylian Mbappé",
+        "position": "ST",
+        "number": 9,
+        "goals": 26,
+        "assists": 9,
+        "appearances": 38,
+        "rating": 8.5,
+        "nationality": "France",
+        "age": 26,
+        "currentClub": "Real Madrid",
+        "marketValue": "180M"
+      },
+      {
+        "id": 23,
+        "name": "Jude Bellingham",
+        "position": "CAM",
+        "number": 5,
+        "goals": 14,
+        "assists": 10,
+        "appearances": 34,
+        "rating": 8.3,
+        "nationality": "England",
+        "age": 22,
+        "currentClub": "Real Madrid",
+        "marketValue": "150M"
+      },
+      {
+        "id": 24,
+        "name": "Rodrygo",
+        "position": "RW",
+        "number": 11,
+        "goals": 10,
+        "assists": 8,
+        "appearances": 35,
+        "rating": 7.8,
+        "nationality": "Brazil",
+        "age": 24,
+        "currentClub": "Real Madrid",
+        "marketValue": "100M"
+      },
+      {
+        "id": 25,
+        "name": "Federico Valverde",
+        "position": "CM",
+        "number": 8,
+        "goals": 6,
+        "assists": 7,
+        "appearances": 36,
+        "rating": 8,
+        "nationality": "Uruguay",
+        "age": 27,
+        "currentClub": "Real Madrid",
+        "marketValue": "120M"
+      }
+    ]
+  },
+  "h2h": {
+    "42-49": {
+      "homeTeamWins": 78,
+      "awayTeamWins": 63,
+      "draws": 61,
+      "totalMatches": 202,
+      "avgGoals": 2.6,
+      "homeTeamGoals": 285,
+      "awayTeamGoals": 248,
+      "recentMatches": [
+        {
+          "date": "2025-04-23",
+          "homeTeam": "Arsenal",
+          "awayTeam": "Chelsea",
+          "homeScore": 2,
+          "awayScore": 1,
+          "competition": "Premier League",
+          "season": "2024/25"
+        },
+        {
+          "date": "2024-10-20",
+          "homeTeam": "Chelsea",
+          "awayTeam": "Arsenal",
+          "homeScore": 1,
+          "awayScore": 1,
+          "competition": "Premier League",
+          "season": "2024/25"
+        },
+        {
+          "date": "2024-04-23",
+          "homeTeam": "Arsenal",
+          "awayTeam": "Chelsea",
+          "homeScore": 5,
+          "awayScore": 0,
+          "competition": "Premier League",
+          "season": "2023/24"
+        },
+        {
+          "date": "2023-10-21",
+          "homeTeam": "Chelsea",
+          "awayTeam": "Arsenal",
+          "homeScore": 2,
+          "awayScore": 2,
+          "competition": "Premier League",
+          "season": "2023/24"
+        },
+        {
+          "date": "2023-05-02",
+          "homeTeam": "Arsenal",
+          "awayTeam": "Chelsea",
+          "homeScore": 3,
+          "awayScore": 1,
+          "competition": "Premier League",
+          "season": "2022/23"
+        }
+      ]
+    },
+    "40-50": {
+      "homeTeamWins": 51,
+      "awayTeamWins": 41,
+      "draws": 36,
+      "totalMatches": 128,
+      "avgGoals": 2.9,
+      "homeTeamGoals": 195,
+      "awayTeamGoals": 168,
+      "recentMatches": [
+        {
+          "date": "2025-03-02",
+          "homeTeam": "Manchester City",
+          "awayTeam": "Liverpool",
+          "homeScore": 1,
+          "awayScore": 1,
+          "competition": "Premier League",
+          "season": "2024/25"
+        },
+        {
+          "date": "2024-11-30",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Manchester City",
+          "homeScore": 2,
+          "awayScore": 0,
+          "competition": "Premier League",
+          "season": "2024/25"
+        },
+        {
+          "date": "2024-03-10",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Manchester City",
+          "homeScore": 1,
+          "awayScore": 1,
+          "competition": "Premier League",
+          "season": "2023/24"
+        },
+        {
+          "date": "2023-11-25",
+          "homeTeam": "Manchester City",
+          "awayTeam": "Liverpool",
+          "homeScore": 1,
+          "awayScore": 1,
+          "competition": "Premier League",
+          "season": "2023/24"
+        },
+        {
+          "date": "2023-04-01",
+          "homeTeam": "Manchester City",
+          "awayTeam": "Liverpool",
+          "homeScore": 4,
+          "awayScore": 1,
+          "competition": "Premier League",
+          "season": "2022/23"
+        }
+      ]
+    },
+    "541-529": {
+      "homeTeamWins": 105,
+      "awayTeamWins": 100,
+      "draws": 52,
+      "totalMatches": 257,
+      "avgGoals": 3.2,
+      "homeTeamGoals": 435,
+      "awayTeamGoals": 417,
+      "recentMatches": [
+        {
+          "date": "2025-05-11",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Real Madrid",
+          "homeScore": 1,
+          "awayScore": 2,
+          "competition": "La Liga",
+          "season": "2024/25"
+        },
+        {
+          "date": "2024-10-26",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Barcelona",
+          "homeScore": 0,
+          "awayScore": 4,
+          "competition": "La Liga",
+          "season": "2024/25"
+        },
+        {
+          "date": "2024-04-21",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Barcelona",
+          "homeScore": 3,
+          "awayScore": 2,
+          "competition": "La Liga",
+          "season": "2023/24"
+        },
+        {
+          "date": "2024-01-14",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Barcelona",
+          "homeScore": 4,
+          "awayScore": 1,
+          "competition": "Supercopa",
+          "season": "2023/24"
+        },
+        {
+          "date": "2023-10-28",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Real Madrid",
+          "homeScore": 1,
+          "awayScore": 2,
+          "competition": "La Liga",
+          "season": "2023/24"
+        }
+      ]
+    }
+  }
+}

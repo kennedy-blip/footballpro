@@ -74,6 +74,10 @@ You should see:
 
 Click the link or open **http://localhost:5173** in your browser.
 
+## Python static-site migration preview
+
+A separate Python/Jinja static site is being developed in [`python-site/`](python-site/README.md). It includes fixture browsing, custom team analysis, predictions, player summaries, and standings, and is not wired into the production Render service. Build from `python-site/` with `pip install -r requirements.txt && python build.py`; output goes to `_site/`. Do not change production before behavior parity and staging verification pass.
+
 ## 📁 Project Structure
 
 The rewrite is in progress. The production app still uses a Vite static build; migrated modules are compiled from `src/rescript/` into ignored `lib/` output before Vite bundles the app. The Render dashboard build settings are not present in this repository; confirm the real Render build command and output directory before deploying stack changes.
