@@ -2,7 +2,7 @@
 
 A comprehensive football prediction and analysis dashboard with real historical data, accurate player transfers, and league standings.
 
-![Football Predictor Pro](https://img.shields.io/badge/Season-2025%2F26-green) ![React](https://img.shields.io/badge/React-19.x-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
+![Football Predictor Pro](https://img.shields.io/badge/Season-2025%2F26-green) ![React](https://img.shields.io/badge/React-19.x-blue) ![ReScript](https://img.shields.io/badge/ReScript-migration%20in%20progress-orange)
 
 ## 🌟 Features
 
@@ -13,7 +13,7 @@ A comprehensive football prediction and analysis dashboard with real historical 
 - **🔮 AI Predictions** - Win probability, Over/Under, BTTS analysis
 - **🎯 Betting Tips** - Confidence-based recommendations
 - **📅 Real Fixtures** - Honest fixture times (no fake live matches)
-- **🔄 Auto-Update Ready** - API integration for real-time data
+- **📡 Static-data mode** - No live API feed is currently wired into the app
 
 ## 📋 Prerequisites
 
@@ -50,10 +50,10 @@ npm install
 
 This will install:
 - React 19
-- TypeScript 5
+- ReScript 12 and the ReScript React bindings
 - Tailwind CSS 4
 - Vite 7
-- Other utilities (clsx, tailwind-merge)
+- Vite, React, and Tailwind CSS tooling
 
 ### Step 3: Run Development Server
 
@@ -76,96 +76,15 @@ Click the link or open **http://localhost:5173** in your browser.
 
 ## 📁 Project Structure
 
-```
-football-predictor/
-├── src/
-│   ├── components/          # UI Components
-│   │   ├── Header.tsx
-│   │   ├── LeagueSelector.tsx
-│   │   ├── TeamSelector.tsx
-│   │   ├── UpcomingMatches.tsx
-│   │   ├── LiveMatches.tsx
-│   │   ├── PredictionPanel.tsx
-│   │   ├── TeamStats.tsx
-│   │   ├── HeadToHead.tsx
-│   │   ├── PlayerStats.tsx
-│   │   ├── StatsComparison.tsx
-│   │   ├── LeagueStandings.tsx
-│   │   ├── BettingTips.tsx
-│   │   └── Disclaimer.tsx
-│   │
-│   ├── data/                # Data & Types
-│   │   ├── leagues.ts       # All leagues & teams
-│   │   ├── fixtures.ts      # Match fixtures
-│   │   ├── standings2024_25.ts  # Last season standings
-│   │   └── types.ts         # TypeScript types
-│   │
-│   ├── services/            # API & Services
-│   │   ├── footballApi.ts   # Real API integration
-│   │   └── predictionEngine.ts  # Prediction algorithms
-│   │
-│   ├── App.tsx              # Main application
-│   ├── main.tsx             # Entry point
-│   └── index.css            # Global styles
-│
-├── index.html               # HTML template
-├── package.json             # Dependencies
-├── tsconfig.json            # TypeScript config
-├── vite.config.ts           # Vite config
-└── README.md                # This file
-```
+The rewrite is in progress. The production app still uses a Vite static build; migrated modules are compiled from `src/rescript/` into ignored `lib/` output before Vite bundles the app. The Render dashboard build settings are not present in this repository; confirm the real Render build command and output directory before deploying stack changes.
 
-## 🔄 Auto-Update with Real API
+## 📡 Live-data status
 
-The project is **ready for real-time updates**! To enable:
-
-### Option 1: API-Football (Recommended)
-
-1. Sign up at [API-Football](https://www.api-football.com/)
-2. Get your free API key (100 requests/day free)
-3. Create a `.env` file in the project root:
-
-```env
-VITE_FOOTBALL_API_KEY=your_api_key_here
-VITE_FOOTBALL_API_HOST=v3.football.api-sports.io
-```
-
-4. The app will automatically fetch:
-   - Live match scores
-   - Real-time standings
-   - Player statistics
-   - Fixture updates
-
-### Option 2: Football-Data.org
-
-1. Sign up at [Football-Data.org](https://www.football-data.org/)
-2. Get your free API key
-3. Update `.env`:
-
-```env
-VITE_FOOTBALL_DATA_API_KEY=your_api_key_here
-```
+The live-data API service was unused by the application and has been removed. The app currently uses its checked-in historical data and fixtures; the Live Matches panel explicitly shows that no matches are currently live. Do not place provider secrets in `VITE_*` variables: Vite exposes those values to browser code. A non-empty API key was found in the tracked local `.env`; it has been removed from the current Git index, but it may remain in repository history and should be rotated with its provider. Keep secrets in Render's environment settings, not in Git.
 
 ## 📊 How Predictions Work
 
-The prediction engine analyzes:
-
-| Factor | Weight | Description |
-|--------|--------|-------------|
-| Historical Results | 30% | Last 5 seasons data (2020-2025) |
-| Recent Form | 25% | Last 5 matches performance |
-| Head-to-Head | 15% | Historical matchups between teams |
-| Home Advantage | 12% | Home team statistical boost |
-| Goal Averages | 10% | Goals scored/conceded per match |
-| Player Quality | 8% | Key player ratings & form |
-
-### Prediction Outputs
-
-- **Win/Draw/Loss %** - Probability for each outcome
-- **Predicted Score** - Most likely scoreline
-- **Over/Under 2.5** - Goals probability
-- **BTTS** - Both Teams to Score probability
-- **Confidence Level** - Low/Medium/High based on data quality
+The prediction calculation is being migrated to ReScript and is parity-checked against the former implementation. It combines team win rate, recent form, attack/defense rates, head-to-head results, home advantage, and home/away win rates. Probabilities are rounded to two decimal places; goal markets and score estimates are derived from expected goals. These estimates are not guarantees and are not financial advice.
 
 ## 🛠️ Available Scripts
 
@@ -184,7 +103,7 @@ npm run preview
 
 ### Add New League
 
-Edit `src/data/leagues.ts`:
+Edit `src/data/leagues.js`:
 
 ```typescript
 export const newLeague: League = {
@@ -245,11 +164,9 @@ rm -rf node_modules
 npm install
 ```
 
-### TypeScript errors
-```bash
-# Check TypeScript version
-npx tsc --version
-```
+### ReScript compiler errors
+
+Run `npm install` and `npm run build`; compiled ReScript output is generated under ignored `lib/`. The migration is in progress, so some TypeScript source remains temporarily.
 
 ## 📞 Support
 

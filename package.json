@@ -4,24 +4,23 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "dev": "node node_modules/vite/bin/vite.js",
+    "build": "rescript build && node node_modules/vite/bin/vite.js build",
+    "postinstall": "rescript build",
+    "preview": "node node_modules/vite/bin/vite.js preview",
+    "test": "rescript build && node --test"
   },
   "dependencies": {
-    "clsx": "2.1.1",
+    "@rescript/runtime": "^12.3.1",
     "react": "19.2.3",
-    "react-dom": "19.2.3",
-    "tailwind-merge": "3.4.0"
+    "react-dom": "19.2.3"
   },
   "devDependencies": {
+    "@rescript/react": "^0.15.0",
     "@tailwindcss/vite": "4.1.17",
-    "@types/node": "^22.0.0",
-    "@types/react": "19.2.7",
-    "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react": "5.1.1",
+    "rescript": "^12.3.1",
     "tailwindcss": "4.1.17",
-    "typescript": "5.9.3",
     "vite": "7.2.4",
     "vite-plugin-singlefile": "2.3.0"
   }
